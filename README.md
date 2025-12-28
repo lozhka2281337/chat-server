@@ -12,7 +12,7 @@
 
 ### compilation and start
 - make (or gcc server.c -o chat_server)
-- ./chat_server`
+- ./chat_server
 
 ### configuration
 ./chat_server -timeout 10
