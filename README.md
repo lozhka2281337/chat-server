@@ -11,7 +11,7 @@
 - [28-12-2025 17:26:15][ERROR] failed to send full message: 512/1024 bytes
 
 ### compilation and start
-- make` (or `gcc server.c -o chat_server`)
+- make (or gcc server.c -o chat_server)
 - ./chat_server`
 
 ### configuration
