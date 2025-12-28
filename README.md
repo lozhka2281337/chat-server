@@ -1,7 +1,5 @@
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 [![Language](https://img.shields.io/badge/language-C-blue.svg)]()
 [![Platform](https://img.shields.io/badge/platform-Linux-green.svg)]()
-[![Timeout](https://img.shields.io/badge/timeout-30s-orange.svg)]()
 
 ### education TCP Chat Server with support for 100+ concurrent clients, non-blocking I/O, activity timeouts, and automatic disconnection of inactive clients
 
